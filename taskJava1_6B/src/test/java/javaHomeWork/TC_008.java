@@ -8,7 +8,7 @@ public class TC_008 {
 //	}
 	
 	static int array[]= {20,30,40};
-	public static void find_Largest() {
+	public void find_Largest() {
 
 		
 		int large = array[0];

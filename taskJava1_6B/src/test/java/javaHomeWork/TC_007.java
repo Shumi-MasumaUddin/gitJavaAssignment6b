@@ -12,7 +12,7 @@ public class TC_007 {
 	
 	
 	
-	public static int compare_Value() {
+	public int compare_Value() {
 		
 		Scanner sc = new Scanner(System.in);
 	    System.out.println("Enter the first number : ");
