@@ -44,6 +44,11 @@ public class mainRunner {
 		answer7.compare_Value();
 		System.out.println(" ");
 		
+		TC_008 answer8 = new TC_008();
+		System.out.println("Output of the Task_8 is:"); 
+		answer8.find_Largest();
+		System.out.println(" ");
+		
 	}
 
 }

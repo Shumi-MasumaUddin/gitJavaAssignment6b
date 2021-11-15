@@ -41,7 +41,7 @@ public class TC_006 {
 				 output= output+myStrInput.charAt(i);
 				 				
 			 }
-			System.out.print(output);
+			System.out.println(output);
 		
 			
 			
