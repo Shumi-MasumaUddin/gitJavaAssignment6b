@@ -27,7 +27,7 @@ public class TC_006 {
 		}
 		//  OR
 	//Take input from user
-		public static void reverse_Anotherway() {
+		public void reverse_Anotherway() {
 			System.out.println("Enter string input to reverse: ");
 			Scanner sc = new Scanner(System.in);
 			String myStrInput =sc.nextLine();

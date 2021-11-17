@@ -35,7 +35,7 @@ public class mainRunner {
 		
 		TC_006 answer6 = new TC_006();
 		System.out.println("Output of the Task_6 is:"); 
-		answer6.reverse("dsaf");
+		//answer6.reverse("dsaf");
 		answer6.reverse_Anotherway();
 		System.out.println(" ");
 		
@@ -47,6 +47,16 @@ public class mainRunner {
 		TC_008 answer8 = new TC_008();
 		System.out.println("Output of the Task_8 is:"); 
 		answer8.find_Largest();
+		System.out.println(" ");
+		
+		TC_009 answer9 = new TC_009();
+		System.out.println("Output of the Task_9 is:"); 
+		answer9.converInchToMeter();
+		System.out.println(" ");
+		
+		TC_010 answer10 = new TC_010();
+		System.out.println("Output of the Task_10 is:"); 
+		answer10.compute_BMI();
 		System.out.println(" ");
 		
 	}
